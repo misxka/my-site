@@ -1,1 +1,1 @@
-# [my-site](https://misxka.github.io/my-site/index.html)
+# [my-site](https://misxka.github.io/my-site/index)
